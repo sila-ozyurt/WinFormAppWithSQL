@@ -25,9 +25,3 @@
 2. Open `ödevprojesi.sln` in Visual Studio.
 3. Change the server name in the connection string (`DESKTOP-VV6EKJV`) to your own.
 4. Press F5 to run.
-
-## Not / Note
-
-**TR:** Ödev projesi olduğu için sorgular parametresiz yazıldı ve şifreler düz metin saklanıyor.
-
-**EN:** This is a course project, so the queries are not parameterized and passwords are stored as plain text.
